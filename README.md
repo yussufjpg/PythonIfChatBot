@@ -9,7 +9,7 @@ If ve Else kod bloklarından oluşan,öğrenebilen,web araması yapabilen,karş�
 
 
 ## Nasıl "Öğreniyor" ?
-Bilinmeyen bir cümle veya kelimeyle karşılaşınca 1,2 ve 3 olamk üzere 3 seçenek var, bu 3 seçenek;
+Bilinmeyen bir cümle veya kelimeyle karşılaşınca 1,2 ve 3 olmak üzere 3 seçenek var, bu 3 seçenek;
 * Bilinmeyen veri İnternette aranır.
 * Bilinmeyen veri bir dahaki kullanımda hatırlanması için kullanıcın verdiği cevapla kaydedilir.
 * Hiçbir şey yapılmaz.
