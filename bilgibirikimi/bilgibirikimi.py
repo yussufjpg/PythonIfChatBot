@@ -43,7 +43,7 @@ def iletisim(cevap):
             webbrowser.get(chrome_yolu).open('''https://www.google.com.tr/search?q='''+cevap+'''&oq='''+cevap+'''&aqs''')
             cevap=input('>>>')
         if elsecevap=='2':
-            bilgibirikimi = open('bilgibirikimi/bellek.py','w')
+            bilgibirikimi = open('bilgibirikimi/bellek.py','w', encoding="utf-8")
             bilgi=input('>>>')       
             cevapi= "'"+cevap+"'"
             bilgii="'"+bilgi+"'"

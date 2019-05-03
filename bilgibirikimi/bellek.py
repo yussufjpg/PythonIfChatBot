@@ -1,4 +1,4 @@
 
-    if cevap == 'Yusuf Bunu Beğendi':
-        print('Bilgisayar buna sevindi!')
+    if cevap == 'hayırdır':
+        print('Hayır')
         cevap=input('>>>')
