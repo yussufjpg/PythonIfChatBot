@@ -16,5 +16,5 @@ Bilinmeyen bir cümle veya kelimeyle karşılaşınca 1,2 ve 3 olmak üzere 3 se
 * Hiçbir şey yapılmaz.
 
 ### 2. Seçenek Nasıl Çalışıyor
-*Bilinmeyen veri bellek.py dosyasına kaydedilir(dosya w kipinde açılır bu sayede önceki veriler silinir ve eski veriler tekrar tekrar kaydedilmez)
-*Programı kapatırken "Görüşürüz" yazılır ve belek.py dosyasındaki veriler bilgibirikimi.py dosyasının sonuna eklenir.
+* Bilinmeyen veri bellek.py dosyasına kaydedilir(dosya w kipinde açılır bu sayede önceki veriler silinir ve eski veriler tekrar tekrar kaydedilmez)
+* Programı kapatırken "Görüşürüz" yazılır ve belek.py dosyasındaki veriler bilgibirikimi.py dosyasının sonuna eklenir.
