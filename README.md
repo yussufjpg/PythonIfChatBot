@@ -24,6 +24,6 @@ Bilinmeyen bir cümle veya kelimeyle karşılaşınca 1,2 ve 3 olmak üzere 3 se
 * Programın sürekli çalışmasını sağlayan döngü problemlere neden oluyor.
 
 ### Problemlere Çözümler
-* -
+* --
 * Cevaplar **küçük harfe** çevirilir bu sayede **büyük küçük harf ayrımı** yok edilir
-* -
+* --
