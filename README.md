@@ -19,7 +19,7 @@ Bilinmeyen bir cümle veya kelimeyle karşılaşınca 1,2 ve 3 olmak üzere 3 se
 * Programı kapatırken **"Görüşürüz"** yazılır ve **belek.py** dosyasındaki veriler **bilgibirikimi.py** dosyasının sonuna eklenir.
 
 ## Bilinen Problemler
-* Aynı anda 2 veri **bellek.py** dosyasına kaydedilemiyor(diğer dosya açma kipleri **eski** verilerin **sürekli** kaydedilmesine neden oluyor.)
+* Aynı anda 2 veri **bellek.py** dosyasına kaydedilemiyor.(diğer dosya açma kipleri **eski** verilerin **sürekli** kaydedilmesine neden oluyor.)
 * Program **büyük/küçük harf** ayırt ediyor.
 * Programın sürekli çalışmasını sağlayan döngü problemlere neden oluyor.
 
