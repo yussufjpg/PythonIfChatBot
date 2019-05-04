@@ -55,7 +55,3 @@ def iletisim(cevap):
             bilgibirikimi.close()
         if elsecevap == '3':
             cevap = input('>>>')
-
-    if cevap == 'Yusuf Bunu Beğendi':
-        print('Bilgisayar buna sevindi!')
-        cevap=input('>>>')
