@@ -1,4 +1,1 @@
-
-    if cevap == 'hayırdır':
-        print('Hayır')
-        cevap=input('>>>')
+# öğrenilen veriler buraya kaydedilir.(veri kaydedilince bu yazılar otomatik olarak silinecek.)
