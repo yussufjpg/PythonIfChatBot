@@ -17,3 +17,13 @@ Bilinmeyen bir cümle veya kelimeyle karşılaşınca 1,2 ve 3 olmak üzere 3 se
 ### 2. Seçenek Nasıl Çalışıyor ?
 * Bilinmeyen veri **bellek.py** dosyasına kaydedilir(dosya w kipinde açılır bu sayede önceki veriler silinir ve eski veriler tekrar tekrar kaydedilmez)
 * Programı kapatırken **"Görüşürüz"** yazılır ve **belek.py** dosyasındaki veriler **bilgibirikimi.py** dosyasının sonuna eklenir.
+
+## Bilinen Problemler
+* Aynı anda 2 veri **bellek.py** dosyasına kaydedilemiyor(diğer dosya açma kipleri **eski** verilerin **sürekli** kaydedilmesine neden oluyor.)
+* Program **büyük/küçük harf** ayırt ediyor.
+* Programın sürekli çalışmasını sağlayan döngü problemlere neden oluyor.
+
+### Problemlere Çözümler
+* -
+* Cevaplar **küçük harfe** çevirilir bu sayede **büyük küçük harf ayrımı** yok edilir
+* -
