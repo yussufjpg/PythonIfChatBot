@@ -24,6 +24,6 @@ Bilinmeyen bir cümle veya kelimeyle karşılaşınca 1,2 ve 3 olmak üzere 3 se
 * Programın sürekli çalışmasını sağlayan döngü problemlere neden oluyor.
 
 ### Problemlere Çözümler
-* Sadece veri eklemek için **manuel.py** kullanılarak tek oturumda 1'den fazla veri eklenebiliyor ancak hala asist.py ile tek oturumda 1+ veri ekleme problemi var.
-* Cevaplar **küçük harfe** çevirilir bu sayede **büyük küçük harf ayrımı** yok edilir
+* Sadece veri eklemek için **manuel.py** kullanılarak tek oturumda 1'den fazla veri eklenebiliyor ancak hala asist.py ile tek oturumda 1+ veri ekleyememe problemi var.
+* Kullanıcı mesajları **küçük harfe** çevirilir bu sayede **büyük küçük harf ayrımı** yok edilir
 * --
